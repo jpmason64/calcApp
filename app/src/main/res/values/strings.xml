@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LSO2-calculator</string>
+    <string-array name="operations">
+        <item>Select Operation</item>
+        <item>/</item>
+        <item>*</item>
+    </string-array>
+</resources>
